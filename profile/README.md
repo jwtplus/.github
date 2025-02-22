@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./jwt-plus-line.png" alt="JWTPlus Logo">
+</p>
+
 # JWTPlus – Next-Gen JWT Management for Modern Applications  
 
 JWTPlus is an **open-source, high-performance JWT management solution** designed to eliminate the common headaches of traditional JWT authentication. From **token revocation** to **key rotation** and **multi-project support**, JWTPlus provides a seamless way to manage authentication—without modifying your existing codebase.  
